@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Laurens
-- 👀 I’m interested in web development (react, next.js, typescript, node, graphql)
-- 🌱 I’m currently learning to build great front-end applications.
+- 👀 I’m interested in web development (react, next.js, typescript, node.js, rest/graphql apis)
+- 🌱 I’m currently learning to build great full-stack applications.
 
 
 <!---
